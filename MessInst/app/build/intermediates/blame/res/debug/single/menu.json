@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\lauri\\AndroidStudioProjects\\Lets-Chat\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crop_image_menu.xml",
+        "source": "C:\\Users\\lauri\\.android\\build-cache\\26700dcf4dd276516d2c52df18d04f2075ef434b\\output\\res\\menu\\crop_image_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\lauri\\AndroidStudioProjects\\Lets-Chat\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\lauri\\AndroidStudioProjects\\Lets-Chat\\LetsChat\\app\\src\\main\\res\\menu\\main_menu.xml"
+    }
+]

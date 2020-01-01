@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\lauri\\AndroidStudioProjects\\Lets-Chat\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\lauri\\.android\\build-cache\\d24211dee724e7a5f6587fdf8f1326c82bea0566\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\lauri\\AndroidStudioProjects\\Lets-Chat\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\lauri\\.android\\build-cache\\d24211dee724e7a5f6587fdf8f1326c82bea0566\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\lauri\\AndroidStudioProjects\\Lets-Chat\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\lauri\\.android\\build-cache\\d24211dee724e7a5f6587fdf8f1326c82bea0566\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\lauri\\AndroidStudioProjects\\Lets-Chat\\LetsChat\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\lauri\\.android\\build-cache\\d24211dee724e7a5f6587fdf8f1326c82bea0566\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
