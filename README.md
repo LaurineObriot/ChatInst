@@ -1,4 +1,7 @@
 # ChatInst
+Commencer comme projet de l'école mais je n'ai pas eu l'occasion de le continuer
+	      (grèves ..) on a fait que de la documentation sur le Serveur/Client,
+	      du coup repris comme projet perso jusqu'à 1ere semaine de vacances de Noel incluse
 
 - Se connecter , s'enregistrer
   - Nouveau compte
