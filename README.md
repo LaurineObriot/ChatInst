@@ -1,7 +1,12 @@
 # ChatInst
-Commencer comme projet de l'école mais je n'ai pas eu l'occasion de le continuer
-	      (grèves ..) on a fait que de la documentation sur le Serveur/Client,
-	      du coup repris comme projet perso jusqu'à 1ere semaine de vacances de Noel incluse
+
+Projet personnel effectué sur les 2 semaines de vances de Noel 2019.
+
+Nous avions abordé la notion de client serveur avec l'école, mais avec les grèves je n'ai pas eu l'occasion de continuer.
+J'ai donc repris ce projet en projet personnel pour le continuer et le terminer.
+J'ai eu envie d'essayer Android Studio et Java, par la même occasion.
+J'ai utilisé Firebase pour gérer la base de données des messages et la gestion du client serveur.
+
 
 - Se connecter , s'enregistrer
   - Nouveau compte
