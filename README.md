@@ -1,6 +1,8 @@
 # ChatInst
 
-Projet personnel effectué sur les 2 semaines de vances de Noel 2019.
+Projet personnel effectué sur les 2 semaines de vacances de Noel 2019.
+
+C'était au départ un projet fait dans le cadre de l'école ADA Tech School précédent projet : https://github.com/adatechschool/MessInstZakiaLaurine fait avec https://github.com/zakiaC .
 
 Nous avions abordé la notion de client serveur avec l'école, mais avec les grèves je n'ai pas eu l'occasion de continuer.
 J'ai donc repris ce projet en projet personnel pour le continuer et le terminer.
